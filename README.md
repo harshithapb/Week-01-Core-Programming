@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week-01-Core-Programming 
 Week 1: Java Basics\
 Welcome to the repository for Week 1 of our Java learning journey. This week focused on building a strong foundation in the fundamental concepts of Java\ programming.\
@@ -59,3 +60,6 @@ Java Development Kit (JDK) installed.\
 A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse.\
 How to Use This Repository\
 This repository is structured to reflect the topics covered each day. You can find code examples, notes, or exercises within the respective daily folders (if\ available). Feel free to explore the code, run it, and modify it to deepen your understanding.
+=======
+# Week-01-Core-Programming
+>>>>>>> fa23c343ae6a3da6e816c212b7fe7333248b0bbd
